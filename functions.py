@@ -2,7 +2,7 @@ import random
 
 WORDLIST_FILENAME = "words.txt"
 
-
+#some of this code was written by mit developers through their online intro to python course. 
 def loadWords():
     """
     Returns a list of valid words. Words are strings of lowercase letters.
